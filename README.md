@@ -2,14 +2,14 @@
   <img src="Preview.png" alt="Sprummers Preview">
 </h3>
 
-# Download
+# <img src="SprummersLogo.png" width="36" alt="Sprummers Logo"> Download
 ### **You can download the game in the releases here: https://github.com/VoidGamingRED/Sprummers/releases**
 
-## <img src="SprummersLogo.png" width="36" alt="Sprummers Logo"> Sprummers
+## Description
 Sprummers is a Sprunki Mod where the goal is to have the highest quality of designs, sounds, and gameplay.
 
 
-
+# Social Links
 ## If you want to learn more about Sprummers, use these links!
 
 
