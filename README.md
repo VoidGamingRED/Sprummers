@@ -4,7 +4,7 @@ You can download the game in the releases here: https://github.com/VoidGamingRED
 
 
 
-If you want to learn more about Sprummers, use these links!
+## If you want to learn more about Sprummers, use these links!
 
 
 OFFICIAL Discord Server: https://discord.com/invite/CdB6sBaBMZ
