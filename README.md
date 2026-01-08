@@ -15,7 +15,7 @@ Sprummers is a Sprunki Mod where the goal is to have the highest quality of desi
 
 OFFICIAL Discord Server: https://discord.com/invite/CdB6sBaBMZ
 
-ORIGINAL Mod Link: https://goobgooby.itch.io/incredibox-sprummers-voidedsounds
+OLD Mod Link: https://goobgooby.itch.io/incredibox-sprummers-voidedsounds
 
 GetVoided's youtube: https://www.youtube.com/@VoidGamingRED
 
